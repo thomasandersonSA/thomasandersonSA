@@ -27,7 +27,8 @@
 
 <br clear="both">
 
-<p data-importer="text" align="center">I'm a Web Developer and Internet Systems Technician## 💻 Technologies & Tools<br><br>- JavaScript<br>- HTML5<br>- CSS3<br>- MySQL<br>- Postman<br>- Git & GitHub<br><br>## 🚀 About Me<br><br>- 🎓 Internet Systems Technician — SENAI<br>- 🌐 Interested in Web Development<br>- 💻 Currently improving my programming skills<br>- 📚 Always learning and building new projects</p>
+<p data-importer="text" align="center">I'm a Web Developer and Internet Systems Technician
+  💻 Technologies & Tools<br><br>- JavaScript<br>- HTML5<br>- CSS3<br>- MySQL<br>- Postman<br>- Git & GitHub<br><br>## 🚀 About Me<br><br>- 🎓 Internet Systems Technician — SENAI<br>- 🌐 Interested in Web Development<br>- 💻 Currently improving my programming skills<br>- 📚 Always learning and building new projects</p>
 
 ###
 
